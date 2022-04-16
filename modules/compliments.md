@@ -110,22 +110,21 @@ config: {
 config: {
 	compliments: {
 		anytime: [
-			"Hey there sexy!"
+			"Hey there!"
 		],
 		morning: [
-			"Good morning, handsome!",
+			"Good morning",
 			"Enjoy your day!",
 			"How was your sleep?"
 		],
 		afternoon: [
-			"Hello, beauty!",
-			"You look sexy!",
+			"Hello,Good Afternoon",
 			"Looking good today!"
 		],
 		evening: [
-			"Wow, you look hot!",
+			"Hey, Good Evening",
 			"You look nice!",
-			"Hi, sexy!"
+			
 		],
 		"....-01-01": [
 			"Happy new year!"
@@ -171,7 +170,7 @@ position: 'middle_center',
 
 ```json
 {
-  "anytime": ["Hey there sexy!"],
+  "anytime": ["Hey there!"],
   "morning": [
     "Good morning, sunshine!",
     "Who needs coffee when you have your smile?",
